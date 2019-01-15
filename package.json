@@ -13,8 +13,8 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "nuxt": "^1.0.0",
-    "vue2-google-maps": "^0.10.1"
+    "nuxt": "^1.4.5",
+    "vue2-google-maps": "^0.10.5"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
